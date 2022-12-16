@@ -7,19 +7,13 @@
 
 - 🎓 Curently just graduated from [iSpan](https://www.ispan.com.tw/)
 
+- 🖱 Most recent projects [Click me](https://github.com/yu-an41/yu-an41/blob/master/README.md/#my-projs)
+
 - 📩 How to reach me? **yvonne840401tw@gmail.com**
 
 - 📔 Wanna know more? [Resume](https://www.cakeresume.com/cheng-yu-an)
 
 - 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/cheng-yu-an/portfolios)
-
-<h2 align="center" id="my-projs">💻 Most recent projects</h2>
-
-- 🥙 [SEIZEE](https://github.com/yu-an41/SEIZEE_React.git) : A resolution to tackle food-waste issues
-  <!-- - Layout:
-      - Features:
-      - Packages:  -->
-- 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations - Memo: The origin site has now permently closed 🥲
 
 <h2 align="center">⌨️ Things I Have Learned </h2>  
 <p>
@@ -43,6 +37,14 @@
    <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
+
+<h2 align="center" id="my-projs">💻 Most recent projects</h2>
+
+- 🥙 [SEIZEE](https://github.com/yu-an41/SEIZEE_React.git) : A resolution to tackle food-waste issues
+  <!-- - Layout:
+      - Features:
+      - Packages:  -->
+- 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations - Memo: The origin site has now permently closed 🥲
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
