@@ -7,13 +7,21 @@
 
 - 🎓 Curently just graduated from [iSpan](https://www.ispan.com.tw/)
 
-- 📩 How to reach me? [Via email](mailto:yvonne840401tw@gmail.com)
+- 📩 How to reach me? **yvonne840401tw@gmail.com**
 
-- 📔 Wanna know more? [CakeResume](https://www.cakeresume.com/cheng-yu-an)
+- 📔 Wanna know more? [Resume](https://www.cakeresume.com/cheng-yu-an)
 
 - 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/cheng-yu-an/portfolios)
 
-<h2 align="center">⌨️ Things I Have Ever Learned </h2>  
+<h2 align="center" id="my-projs">💻 Most recent projects</h2>
+
+- 🥙 [SEIZEE](https://github.com/yu-an41/SEIZEE_React.git) : A resolution to tackle food-waste issues
+  <!-- - Layout:
+      - Features:
+      - Packages:  -->
+- 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations - Memo: The origin site has now permently closed 🥲
+
+<h2 align="center">⌨️ Things I Have Learned </h2>  
 <p>
    <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,12 +42,11 @@
    <img alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  
 </p>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yu-an41&theme=darkhub&title=MultiLanguage,Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yu-an41&theme=darkhub&title=Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
@@ -52,4 +59,6 @@
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yu-an41&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
 </p>
 
-<!-- template: https://github.com/yu-an41/yu-an41/blob/main/README.md--!>
+<!-- template references: 
+1. https://github.com/yu-an41/yu-an41/blob/main/README.md
+--!>
