@@ -48,17 +48,17 @@
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yu-an41&theme=darkhub&title=Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yu-an41&title=Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-an41&theme=dark" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-an41&theme=defalut" />
 </p>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p align="center">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yu-an41&show_icons=true&theme=dracula&hide=issues&hide_border=true" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yu-an41&show_icons=true&bg_color=fefae0&hide=issues&hide_border=true" />
 </p>
 
 <!-- template references: 
