@@ -40,7 +40,8 @@
 
 <h2 align="center" id="my-projs">🧡 Currently working on... </h2>
 
--
+- A new <img style="vertical-align: middle;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> project using <img style="vertical-align: middle;" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> and <img style="vertical-align: middle;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+- Repository link to be revealed...
 
 <h2 align="center" id="my-projs">💻 Most recent projects</h2>
 
@@ -51,17 +52,25 @@
     <img width="33%" height="33%" alt="seizee cart info" src="https://images.cakeresume.com/post-images/556f4ed0-f92f-4727-aeb3-73344eec35e2.png"/>
     <img width="33%" height="33%" alt="seizee cart done" src="https://images.cakeresume.com/post-images/a225ec10-60a0-43f1-af69-40d3a75c0938.png"/>
   </div>
-  - Layout:
+  <!-- - Layout:  -->
+
   - Features:
-  - Packages:
-- 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations - Memo: The origin site has now permently closed 🥲
-  <div algin="center" style="display: flex;">
+    - a lightbox-styled full screen menu
+    - Line Pay API (available on all devices)
+    - add to/remove from wishlist function
+    <!-- - Packages:  -->
+
+- 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations
+
+  - \*\*\*The origin site has now permently closed 🥲
+  <img alt="Sakulabo main" src="https://images.cakeresume.com/post-images/24eeb26d-e30e-491c-aedd-b4d379200863.png"/>
+  <!-- <div algin="center" style="display: flex;">
       <img width="33%" height="33%" alt="Sakulabo cover" src="https://images.cakeresume.com/post-images/2ea2b196-ec5b-4b82-83b6-4378b07da287.png"/>
       <img width="33%" height="33%" alt="Sakulabo main" src="https://images.cakeresume.com/post-images/5277e5f0-d994-4ddf-b9c9-cbffa9b282f5.png"/>
       <img width="33%" height="33%" alt="Sakulabo footer" src="https://images.cakeresume.com/post-images/c0ef1db6-5d4b-48bf-8c8f-8e90b66ec1cd.png"/>
-    </div>
+    </div> -->
 
-  - Layout:
+  - Features:
     - RWD layout for at least 4 types of device sizes
     - Flex grid layout implemented
 
