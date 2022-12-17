@@ -9,9 +9,9 @@
 
 - 🖱 Most recent projects [Click me](https://github.com/yu-an41/yu-an41/blob/master/README.md/#my-projs)
 
-- 📩 How to reach me? **yvonne840401tw@gmail.com**
+- 📩 To reach me/work things out together/any thoughts **yvonne840401tw@gmail.com**
 
-- 📔 Wanna know more? [Resume](https://www.cakeresume.com/cheng-yu-an)
+- 📔 Wanna know more about me? [Here's my profile](https://www.cakeresume.com/cheng-yu-an)
 
 - 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/cheng-yu-an/portfolios)
 
@@ -38,23 +38,46 @@
   <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
+<h2 align="center" id="my-projs">🧡 Currently working on... </h2>
+
+-
+
 <h2 align="center" id="my-projs">💻 Most recent projects</h2>
 
 - 🥙 [SEIZEE](https://github.com/yu-an41/SEIZEE_React.git) : A resolution to tackle food-waste issues
-  <!-- - Layout:
-      - Features:
-      - Packages:  -->
+  <img alt="seizee cover" src="https://images.cakeresume.com/post-images/bf84ec3b-5993-43c8-8baf-fe66f61cc5df.png"/>
+  <div algin="center" style="display: flex;">
+    <img width="33%" height="33%" alt="seizee cart items" src="https://images.cakeresume.com/post-images/87dc5551-57a0-4a99-b8d8-8be791313f5e.png"/>
+    <img width="33%" height="33%" alt="seizee cart info" src="https://images.cakeresume.com/post-images/556f4ed0-f92f-4727-aeb3-73344eec35e2.png"/>
+    <img width="33%" height="33%" alt="seizee cart done" src="https://images.cakeresume.com/post-images/a225ec10-60a0-43f1-af69-40d3a75c0938.png"/>
+  </div>
+  - Layout:
+  - Features:
+  - Packages:
 - 💫 [Layout Practicing -- Sakulabo](https://github.com/yu-an41/LayoutPracticing_Sakurabo) : A cute officail site with lovely animations - Memo: The origin site has now permently closed 🥲
+  <div algin="center" style="display: flex;">
+      <img width="33%" height="33%" alt="Sakulabo cover" src="https://images.cakeresume.com/post-images/2ea2b196-ec5b-4b82-83b6-4378b07da287.png"/>
+      <img width="33%" height="33%" alt="Sakulabo main" src="https://images.cakeresume.com/post-images/5277e5f0-d994-4ddf-b9c9-cbffa9b282f5.png"/>
+      <img width="33%" height="33%" alt="Sakulabo footer" src="https://images.cakeresume.com/post-images/c0ef1db6-5d4b-48bf-8c8f-8e90b66ec1cd.png"/>
+    </div>
+
+  - Layout:
+    - RWD layout for at least 4 types of device sizes
+    - Flex grid layout implemented
+
+<br></br>
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
   <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=yu-an41&title=Commits,Repositories,Stars,PullRequest&row=2&column=3&margin-w=10&margin-h=10" />
 </p>
+<br></br>
 
 <h2 align="center">⭐️ My Github Streak Stats:</h2>
 <p align="center">
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-an41&theme=defalut" />
 </p>
+<br></br>
 
 <h2 align="center">⭐️ My Github Stats:</h2>
 <p align="center">
