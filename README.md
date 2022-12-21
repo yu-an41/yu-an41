@@ -13,7 +13,7 @@
 
 - 📔 Wanna know more about me? [Here's my profile](https://www.cakeresume.com/cheng-yu-an)
 
-- 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/cheng-yu-an/portfolios)
+- 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/me/cheng-yu-an/portfolios)
 
 <h2 align="center">⌨️ Things I Have Learned </h2>  
 <p>
