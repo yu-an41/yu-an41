@@ -40,8 +40,11 @@
 
 <h2 align="center" id="my-projs">🧡 Currently working on... </h2>
 
-- A new <img style="vertical-align: middle;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> project using <img style="vertical-align: middle;" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> and <img style="vertical-align: middle;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+- An all-in-one SPA with various widgets to make your life easier 🤩
+- Including but not limited to to-do-list and expense tracker
+- Using <img style="vertical-align: middle;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> 
 - Repository link to be revealed...
+- Also exploring <img style="vertical-align: middle;" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> and <img style="vertical-align: middle;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> atm
 
 <h2 align="center" id="my-projs">💻 Most recent projects</h2>
 
