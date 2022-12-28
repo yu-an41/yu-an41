@@ -42,7 +42,7 @@
 
 - An all-in-one SPA with various widgets to make your life easier 🤩
 - Including but not limited to to-do-list and expense tracker
-- Using <img style="vertical-align: middle;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> 
+- Using <img style="vertical-align: middle;" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 - Repository link to be revealed...
 - Also exploring <img style="vertical-align: middle;" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> and <img style="vertical-align: middle;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> atm
 
@@ -78,15 +78,10 @@
     - Flex grid layout implemented
 
 - UI Design Practicing -- [click me for protoptype!](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
-   
-   - From design, photoshop to figma!
-   - <img src="">
-   - Reference: 
-      - [Layout design](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
-<br></br>
-      - [Logo src](https://www.facebook.com/usakuchaya/)
-      - [Icon src](https://www.irasutoya.com/)
-      - [Image src](https://pixabay.com/)
+  - From design, photoshop to figma!
+  - <img src="./images/UI_Practicing_MATCHA.gif">
+  - Reference: - [Layout design](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
+    <br></br> - [Logo src](https://www.facebook.com/usakuchaya/) - [Icon src](https://www.irasutoya.com/) - [Image src](https://pixabay.com/)
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
