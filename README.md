@@ -77,7 +77,16 @@
     - RWD layout for at least 4 types of device sizes
     - Flex grid layout implemented
 
+- UI Design Practicing -- [click me for protoptype!](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
+   
+   - From design, photoshop to figma!
+   - <img src="">
+   - Reference: 
+      - [Layout design](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
 <br></br>
+      - [Logo src](https://www.facebook.com/usakuchaya/)
+      - [Icon src](https://www.irasutoya.com/)
+      - [Image src](https://pixabay.com/)
 
 <h2 align="center">🏆 My Github Trophy:</h2>
 <p align="center">
