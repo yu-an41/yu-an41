@@ -79,8 +79,7 @@
 
 - UI Design Practicing -- [click me for protoptype!](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
   - From design, photoshop to figma!
-  - <img src="./../images/UI_Practicing_MATCHA.gif">
-  - <img align="center" src="./images/UI_Practicing_MATCHA.gif">
+  - <img align="center" src="https://images.cakeresume.com/post-images/23ad5b4f-9680-4a5d-aefe-851216feeb57.gif">
   - Reference: 
     - [Layout design](https://www.figma.com/proto/Dzl8AZplMEHhpWLgzwROM8/%E7%B6%B2%E9%A0%81%E8%A6%96%E8%A6%BA%E8%A8%AD%E8%A8%88_%E9%84%AD%E6%84%89%E5%AE%89?node-id=44%3A206&starting-point-node-id=44%3A206)
     - [Logo src](https://www.facebook.com/usakuchaya/) 
