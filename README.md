@@ -67,7 +67,7 @@
     - add to/remove from wishlist function
     <!-- - Packages:  -->
 
-- 💫 [Layout Practicing -- Sakulabo]([https://github.com/yu-an41/LayoutPracticing_Sakurabo](https://yu-an41.github.io/LayoutPracticing_Sakurabo/)) : A cute officail site with lovely animations
+- 💫 [Layout Practicing -- Sakulabo](https://yu-an41.github.io/LayoutPracticing_Sakurabo/) : A cute officail site with lovely animations
 
   - \*\*\*The origin site has now permently closed 🥲
   <img alt="Sakulabo main" src="https://images.cakeresume.com/post-images/24eeb26d-e30e-491c-aedd-b4d379200863.png"/>
