@@ -39,6 +39,7 @@
 </p>
 
 <h2 align="center" id="my-projs">🧡 Currently working on... </h2>
+
 - [PET PET]([https://github.com/yu-an41/LifeHackers](https://github.com/yu-an41/PET_React))
    - An online platform to get some goodies for your fluffy friends 🐾
    - Simple and nice-looking layout using mostly Tailwind
