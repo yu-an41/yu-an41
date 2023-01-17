@@ -40,7 +40,7 @@
 
 <h2 align="center" id="my-projs">🧡 Currently working on... </h2>
 
-- [PET PET]([https://github.com/yu-an41/LifeHackers](https://github.com/yu-an41/PET_React))
+- [PET PET](https://github.com/yu-an41/PET_React)
    - An online platform to get some goodies for your fluffy friends 🐾
    - Simple and nice-looking layout using mostly Tailwind
    - Using <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
