@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=yu-an41&style=for-the-badge">
 </h1>
 
-- 🌱 I'm a front-end newbee-eee
+- 🌱 I'm a 7-month-experienced front-end newbee-eee
 
 - 🎓 Curently just graduated from [iSpan](https://www.ispan.com.tw/)
 
