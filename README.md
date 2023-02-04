@@ -5,7 +5,7 @@
 
 - 🌱 I'm a 7-month-experienced front-end newbie
 
-- 🎓 Curently just graduated from [iSpan](https://www.ispan.com.tw/)
+- 🎓 =Graduated from [iSpan](https://www.ispan.com.tw/) in DEC, 2022
 
 - 🖱 Most recent projects [Click me](https://github.com/yu-an41/yu-an41/blob/master/README.md/#my-projs)
 
@@ -44,7 +44,6 @@
    - An online platform to get some goodies for your fluffy friends 🐾
    - Simple and nice-looking layout using mostly Tailwind
    - Using <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> <img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-
 
 - [Life Hackers](https://github.com/yu-an41/LifeHackers)
    - An all-in-one SPA with various widgets to make your life easier 🤩
