@@ -5,15 +5,15 @@
 
 - 🌱 Front-end newbie ✨
 
-- 🎓 Graduated from [iSpan](https://www.ispan.com.tw/) in DEC, 2022
+- 🎓 Graduated from iSpan in DEC, 2022
 
 - 🖱 Most recent projects [Click me](https://github.com/yu-an41/yu-an41/blob/master/README.md/#my-projs)
 
-- 📩 To reach me/work things out together/any thoughts **yvonne840401tw@gmail.com**
+- 📩 To reach me/work things out together **yvonne840401tw@gmail.com**
 
-- 📔 Wanna know more about me? [Here's my profile](https://www.cakeresume.com/cheng-yu-an)
+- 📔 More about me? [Here's my profile](https://www.cakeresume.com/cheng-yu-an)
 
-- 🎨 Please do checkout my porfolio! [CakeResume](https://www.cakeresume.com/me/cheng-yu-an/portfolios)
+- 🎨 Please do checkout my [portfolio](https://www.cakeresume.com/me/cheng-yu-an/portfolios)
 
 <h2 align="center">⌨️ Things I Have Learned </h2>  
 <p>
