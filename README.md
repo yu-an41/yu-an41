@@ -3,9 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=yu-an41&style=for-the-badge">
 </h1>
 
-- 🌱 Front-end newbie ✨
-
-- 🎓 Graduated from iSpan in DEC, 2022
+- 🌱 Front-end newbie since March, 2023✨
 
 - 🖱 Most recent projects [Click me](https://github.com/yu-an41/yu-an41/blob/master/README.md/#my-projs)
 
